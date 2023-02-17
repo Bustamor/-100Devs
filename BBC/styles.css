@@ -1,0 +1,43 @@
+* {
+    margin:  10px 10px;
+    padding: 0;
+}
+.container {
+    width: 970px;
+    align-items: ;
+}
+.body {
+    background-color: gray;
+    font-size: small
+    ;
+}
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nav {
+    padding: 10px;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+.top-pics {
+    display: flex;
+}
+
+.left-images {
+    display: flex;
+}
+
+.left-pics {
+    display: flex;
+}
+.right-pics {
+    display: flex;
+}
